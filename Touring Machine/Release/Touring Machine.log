@@ -1,0 +1,10 @@
+﻿  glavni.cpp
+  komanda.cpp
+  masina.cpp
+  traka.cpp
+  Generating code
+  495 of 516 functions (95.9%) were compiled, the rest were copied from previous compilation.
+    310 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Touring Machine.vcxproj -> C:\Users\Strahinja Janjic\Desktop\DIS\Semestralni\Touring Machine\Release\Touring Machine.exe
